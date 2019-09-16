@@ -1,9 +1,12 @@
 $(document).ready(function() {
   var danhSachNguoiDung = new DanhSachNguoiDung();
-
+  
   function themNguoiDung(){
-    console.log("themNguoiDung");
-  }
+    console.log("themNguoiDung2");
+
+  // function themNguoiDung(){
+  //   console.log("themNguoiDung");
+     }
   getListUser();
 
   function getListUser() {
