@@ -3,7 +3,10 @@ $(document).ready(function() {
   
   function themNguoiDung(){
     console.log("themNguoiDung2");
-  }
+
+  // function themNguoiDung(){
+  //   console.log("themNguoiDung");
+     }
   getListUser();
 
   function getListUser() {
